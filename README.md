@@ -1,5 +1,9 @@
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm FURKAN</h1>
 <h3 align="center">JR.IOS DEVELOPER</h3>
+img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"
 
 - 🔭 I’m currently working on **freelance**
 
