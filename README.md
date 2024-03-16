@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://qph.cf2.quoracdn.net/main-qimg-538149b6b5c494d5b9bf8136ed884dbc))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm FURKAN</h1>
 <h3 align="center">JR.IOS DEVELOPER</h3>
