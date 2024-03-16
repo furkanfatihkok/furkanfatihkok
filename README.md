@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **swift**
+- 🌱 I’m currently learning **Swift & IOS**
 
 - 📫 How to reach me **furkanfatihkok@gmail.com**
 
